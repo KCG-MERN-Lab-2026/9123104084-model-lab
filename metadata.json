@@ -1,0 +1,5 @@
+{
+  "name": "MongoFile Hub",
+  "description": "A full-stack file upload service using Express and MongoDB for metadata storage.",
+  "requestFramePermissions": []
+}
